@@ -50,5 +50,5 @@ scores turned out to be stronger predictors than raw attendance.
 ## Limitations
 
 - 395 students is a fairly small dataset
-- "Assignments" is an approximation, not an original UCI feature — worth noting if asked
+- "Assignments" is an approximation, not an original UCI feature 
 - Predictions reflect these two Portuguese schools specifically, may not generalize elsewhere
